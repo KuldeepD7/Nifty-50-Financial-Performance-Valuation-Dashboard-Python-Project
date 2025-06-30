@@ -17,38 +17,15 @@ And Python for actionable financial insights.
 
 ---
 
-## Dataset Description
-
-- **File Name**: `Nifty 50.csv`
-- **Total Columns**: 12 
-- **Key Fields**:
-  - `Company Name`, `CMP`, `PE Ratio`, `Mar Cap`
-  - `Diviend Yield`, `Net Profit Qtr`, `Qtr Profit`
-  - `Sales Qtr`, `Qtr Sales`, `ROCE %`, `ROE %`
-
----
-
 ## Tools Used
 
 - **Python**: Pandas, Numfy, Metplotlib, Seaborn
 - **Data Preparation**: CSV via import
-- **Visulization**: Power Bi for visuals
-
-
----
-## 🧰 Tools & Technologies Used
-
-| Tool        | Purpose                          |
-|-------------|----------------------------------|
-| Python      | Data cleaning and transformation |
-| Pandas      | Data analysis and preprocessing  |
-| SQL (SQLite)| Querying insights from cleaned data |
-| Power BI    | Dashboard and visualization      |
-| Screener.in | Financial data source            |
-
+- **Dashboard and Visulization**: Power Bi for visuals
+- **Financial Data Source**: Screener.in
 ---
 
-## 📁 Dataset
+## 📁 Dataset Overview
 
 The dataset was exported from [Screener.in](https://www.screener.in/) and manually filtered to include Nifty 50 companies. It contains financial metrics such as:
 
@@ -65,7 +42,7 @@ The dataset was exported from [Screener.in](https://www.screener.in/) and manual
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 Investors often face difficulty in evaluating and comparing financial data across multiple companies. This project solves that by building a visual, data-driven dashboard that highlights:
 
@@ -76,7 +53,7 @@ Investors often face difficulty in evaluating and comparing financial data acros
 
 ---
 
-## 🔍 SQL Insight Questions
+## 🔍 Tasked Solved (via Python)
 
 The cleaned dataset was imported into SQL for querying key insights:
 
@@ -111,27 +88,8 @@ The cleaned dataset was imported into SQL for querying key insights:
 
 ## 📷 Dashboard Preview
 
-> *(Add screenshot of your Power BI dashboard here once it's ready)*
-
----
-
-## 🚀 How to Run This Project
-
-1. Clone this repository  
-2. Download or export the dataset from Screener.in  
-3. Run the Python script for cleaning and preprocessing  
-4. Load cleaned data into a local SQL database (SQLite recommended)  
-5. Connect Power BI to the SQL DB or cleaned Excel  
-6. Build or open the dashboard using the `.pbix` file
-
----
-
-## 📚 Future Improvements
-
-- Add time series analysis (multi-quarter trends)
-- Automate data collection using APIs or web scraping
-- Compare with broader indices like Nifty Next 50
-- Create a Streamlit web app version
+> *![image](https://github.com/user-attachments/assets/7dbd0478-101b-418b-bd55-b12be53b4a89)
+*
 
 ---
 
@@ -139,14 +97,10 @@ The cleaned dataset was imported into SQL for querying key insights:
 
 **Kuldeep Dwivedi**  
 Aspiring Data Analyst | Python • SQL • Power BI  
-[LinkedIn](https://www.linkedin.com) *(Add your link)*  
-[Portfolio](https://yourportfolio.com) *(Optional)*
+[LinkedIn](https://www.linkedin.com) 
+[Portfolio](https://yourportfolio.com) 
 
 ---
-
-## 📄 License
-
-This project is intended for educational purposes only. Financial data is sourced from public platforms and may be subject to change.
 
 
 
