@@ -85,12 +85,11 @@ The cleaned dataset was imported into SQL for querying key insights:
 - KPI cards for average ROE, ROCE, P/E ratio
 - Bar charts for top 10 companies by ROE, ROCE, Dividend Yield
 - Scatter plot: ROE vs. P/E ratio (bubble size = Market Cap)
-- Filters for sector, market cap, and performance bands
-- Conditional formatting in tables for quick insights
+- Conditional formatting in tables for quick insight
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Power BI Dashboard 
 
 > *![image](https://github.com/user-attachments/assets/7dbd0478-101b-418b-bd55-b12be53b4a89)
 *
