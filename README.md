@@ -73,9 +73,9 @@ The cleaned dataset was imported into SQL for querying key insights:
 ## 📈 Analysis & Finding
 
 - Coal India has lower PE ratio indicate undervalued , is good for long term growth.
--Nestle India is a prime candidate for long-term investment due to its consistent capital efficiency and profitability Ideal for value and growth investors seeking stable returns and strong fundamentals.
--Bharti Airtel, Tata Steel, Adani Enterprises, Tech Mahindra, and Hindalco Industries have shown strong YOY profit growth and should focus on improving capital efficiency, driving innovation, and enhancing shareholder value to sustain long-term growth.
--Companies like Reliance, TCS, and HDFC Bank show robust sales and profit growth (>10%), indicating solid operational execution and demand across their segments. Sustained double-digit growth may attract institutional capital and signal long-term competitiveness.
+- Nestle India is a prime candidate for long-term investment due to its consistent capital efficiency and profitability Ideal for value and growth investors seeking stable returns and strong fundamentals.
+- Bharti Airtel, Tata Steel, Adani Enterprises, Tech Mahindra, and Hindalco Industries have shown strong YOY profit growth and should focus on improving capital efficiency, driving innovation, and enhancing      shareholder value to sustain long-term growth.
+- Companies like Reliance, TCS, and HDFC Bank show robust sales and profit growth (>10%), indicating solid operational execution and demand across their segments. Sustained double-digit growth may attract institutional capital and signal long-term competitiveness.
 
 
 ---
