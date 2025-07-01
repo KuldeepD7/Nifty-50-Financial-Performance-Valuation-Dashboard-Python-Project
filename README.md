@@ -100,8 +100,7 @@ The cleaned dataset was imported into SQL for querying key insights:
 
 **Kuldeep Dwivedi**  
 Aspiring Data Analyst | Python • SQL • Power BI  
-[LinkedIn](https://www.linkedin.com) 
-[Portfolio](https://yourportfolio.com) 
+[LinkedIn](www.linkedin.com/in/kuldeepdwivedi74) 
 
 ---
 
